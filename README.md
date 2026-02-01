@@ -31,9 +31,3 @@ I turn raw data into clear, actionable insights. I build reproducible analyses, 
 - LinkedIn: [Pavan Kumar Kema](https://www.linkedin.com/in/pavan-kumar-kema/)  
 
 ---
-
-Want me to add live screenshots or published report links into this README? Upload the dashboard screenshots (PNG) or paste the Power BI publish link(s) and I’ll embed them here.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
