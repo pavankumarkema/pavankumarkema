@@ -8,7 +8,7 @@ I turn raw data into clear, actionable insights. I build reproducible analyses, 
 
 ## Quick facts
 - 🎯 Current focus: Data analysis, feature engineering, visualization, and interpreting model results for decisions  
-- 🧰 Primary tools: Python ,  Power BI
+- 🧰 Primary tools: Python ,  Power BI , SQL
 - 🎓 Education: B.Tech in Computer Science & Engineering — Data Science specialization (pre-final year)
 
 ---
