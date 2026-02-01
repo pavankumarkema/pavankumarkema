@@ -26,8 +26,3 @@ I turn raw data into clear, actionable insights. I build reproducible analyses, 
 - Power BI: Interactive dashboard included (delay heatmaps, route KPIs, time-series trends). See the project README for PBIX, screenshots, and viewing instructions.
 
 ---
-
-## Contact
-- LinkedIn: [Pavan Kumar Kema](https://www.linkedin.com/in/pavan-kumar-kema/)  
-
----
